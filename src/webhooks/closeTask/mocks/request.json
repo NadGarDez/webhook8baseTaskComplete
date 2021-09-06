@@ -1,0 +1,13 @@
+{
+  "data": {
+    "id": "ckt62zpet00r008mh0yvudn4x",
+    "culminacion":"2021-09-04T18:27:15.555Z"
+  },
+  "headers": {
+    "x-header-1": "header value"
+  },
+  "body": {
+    "id": "ckt62zpet00r008mh0yvudn4x",
+    "culminacion":"2021-09-04T18:27:15.555Z"
+  }
+}
